@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(182, 99, 182);
+    font-family: 'Comfortaa', cursive;
+}
+
+#politica-privacidade-text {
+    max-width: 48rem;
+    text-align: justify;
+}
